@@ -4,7 +4,7 @@ This project explores the complete machine learning pipeline for predicting cust
 ## 1. Data Source
 WA_Fn-UseC_-Telco-Customer-Churn.csv: The primary dataset containing customer demographics, service details, and the target Churn label.
 
-##2. Jupyter Notebooks
+## 2. Jupyter Notebooks
 churn_tutorial.ipynb: The end-to-end master pipeline.
 
 Data Cleaning & EDA: Handling missing values and visualizing trends.
