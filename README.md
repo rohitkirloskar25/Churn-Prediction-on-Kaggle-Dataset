@@ -1,7 +1,7 @@
 This project explores the complete machine learning pipeline for predicting customer churn, with a specific focus on data preprocessing, feature encoding, and advanced strategies for handling imbalanced datasets.
 
-#📂 Project Structure
-##1. Data Source
+# 📂 Project Structure
+## 1. Data Source
 WA_Fn-UseC_-Telco-Customer-Churn.csv: The primary dataset containing customer demographics, service details, and the target Churn label.
 
 ##2. Jupyter Notebooks
@@ -27,12 +27,12 @@ Tests the performance and feasibility of training models directly on raw categor
 
 Concludes why numerical encoding is a mathematical necessity for standard Machine Learning algorithms.
 
-##3. Model Artifacts
+## 3. Model Artifacts
 customer_churn_model.pkl: The saved version of the final trained Random Forest classifier.
 
 encoders.pkl / encoders_under.pkl: Saved LabelEncoder objects to ensure consistency during real-world inference.
 
-#🚀 How to Use
+# 🚀 How to Use
 Preparation: Ensure all .csv and .ipynb files are in the same directory.
 
 Pipeline: Start with churn_tutorial.ipynb to understand the full workflow.
